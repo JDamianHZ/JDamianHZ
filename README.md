@@ -110,33 +110,6 @@ Tools           → Git · GitHub · VS Code · Linux
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JDamianHZ&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="José Damián GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDamianHZ&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=JDamianHZ&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
----
 
 ## 🎯 Currently
 
