@@ -148,7 +148,7 @@ Focus on Machine Learning algorithms and software development.
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/jose-damian-herrera-zepeda-7182633a4/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 </p>
